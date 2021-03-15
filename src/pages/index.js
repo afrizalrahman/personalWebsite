@@ -1,6 +1,5 @@
 import React from "react";
 import { Element } from "react-scroll";
-
 import PageWrapper from "../components/PageWrapper";
 import Hero from "../sections/masonry-4-column/Hero";
 import Works from "../sections/masonry-4-column/Works";

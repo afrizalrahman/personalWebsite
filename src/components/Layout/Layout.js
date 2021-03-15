@@ -104,7 +104,7 @@ const Layout = ({ children, pageContext }) => {
         <ThemeSwitch />
         <GlobalStyle />
         <Head>
-          <title>Folio</title>
+          <title>Afrizal Fath Rahman</title>
           <link rel="icon" type="image/png" href={imgFavicon} />
         </Head>
         <Loader id="loading" className={visibleLoader ? "" : "inActive"}>
@@ -131,7 +131,7 @@ const Layout = ({ children, pageContext }) => {
         <ThemeSwitch />
         <GlobalStyle />
         <Head>
-          <title>Folio</title>
+          <title>Afrizal Fath Rahman</title>
           <link rel="icon" type="image/png" href={imgFavicon} />
         </Head>
         <Loader id="loading" className={visibleLoader ? "" : "inActive"}>
